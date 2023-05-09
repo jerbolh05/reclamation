@@ -1,0 +1,82 @@
+{
+    "width": 40,
+    "height": 18,
+    "gravity": 1.0,
+    "start": [5, -7],
+    "grass_top_left_corner_locs": [],
+    "grass_top_right_corner_locs": [],
+    "grass_top_locs": [
+        [0, 9], [1, 9],  [2, 9],  [3, 9],  [4, 9],  [5, 9],  [6, 9],  [7, 9], [8, 9], [9, 9], [10, 9], [11, 9], [12, 9], [13, 9], [14, 9], [15, 9], [16, 9], [17, 9]
+    ],
+    "dirt_locs": [],
+    "dirt_bottom_locs": [],
+    "dirt_bottom_right_locs": [],
+    "dirt_bottom_right_1_locs": [],
+    "dirt_top_right_1_locs": [],
+    "dirt_bottom_left_locs": [],
+    "dirt_right_locs": [],
+    "dirt_left_locs": [],
+    "dirt_top_right_locs": [],
+    "dirt_top_left_locs": [],
+    "arrow_right_1_locs": [],
+    "tree_1_bottom": [
+        [7, 8]
+    ],
+    "tree_1_middle_1": [
+        [7, 6]
+    ],
+    "tree_1_middle_2": [],
+    "tree_1_middle_5": [
+        [7, 7]
+    ],
+    "tree_1_top_1": [
+        [7, 5]
+    ],
+    "tree_1_top_2": [
+        [8, 5]
+    ],
+    "tree_1_top_3": [
+        [8, 3]
+    ],
+    "tree_1_top_4": [
+        [7, 3]
+    ],
+    "tree_1_top_5": [
+        [6, 3]
+    ],
+    "tree_1_top_6": [
+        [8, 4]
+    ],
+    "tree_1_top_7": [
+        [6, 4]
+    ],
+    "tree_1_top_8": [
+        [7, 4]
+    ],
+    "tree_1_top_9": [],
+    "tree_1_top_10": [
+        [6, 5]
+    ],
+    "tree_1_branch_2": [
+        [8, 7]
+    ],
+    "coin_locs": [],
+    "key_1_locs": [],
+    "cloud_left_locs": [],
+    "cloud_middle_locs": [],
+    "cloud_right_locs": [],
+    "box_1_locs": [],
+    "respwan_block_locs": [],
+    "block_left_locs": [],
+    "block_middle_locs": [],
+    "block_right_locs": [],
+    "block_locs": [],
+    "wire_top_locs": [],
+    "wire_locs": [],
+    "wire_bottom_locs": [],
+    "platform_locs": [],
+    "platform_left_locs": [],
+    "platform_middle_locs": [],
+    "platform_right_locs": [],
+    "goal_locs": []
+}
